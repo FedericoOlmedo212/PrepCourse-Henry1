@@ -1,2 +1,1 @@
-# PrepCourse-Henry1
-repositorio de prueba 1
+Este proyecto es como crear una copia de mi repositorio a local
